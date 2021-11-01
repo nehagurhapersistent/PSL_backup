@@ -1,0 +1,26 @@
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.1/deploy-on-premises#mmp-deploy-arm
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.1/deploy-on-premises#mmp-deploy-agent
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.1/deploy-on-premises#mmp-deploy-standalone
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.3/secure-configuration-properties
+from Sivadas Ramdas to All Participants:
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.3/hadr-guide
+from Sivadas Ramdas to All Participants:
+https://www.nslookup.io/
+from Sivadas Ramdas to All Participants:
+https://www.ipaddressguide.com/cidr
+from Sivadas Ramdas to All Participants:
+https://status.mulesoft.com/
+from Sivadas Ramdas to All Participants:
+https://en.wikipedia.org/wiki/4%2B1_architectural_view_model
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/mule-runtime/4.1/batch-processing-concept
+from Sivadas Ramdas to All Participants:
+https://docs.mulesoft.com/private-cloud/3.0/
